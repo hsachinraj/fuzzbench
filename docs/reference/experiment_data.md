@@ -15,7 +15,7 @@ to in the report itself.
 
 This page is written for users of the FuzzBench service. The same concepts apply
 to users running FuzzBench on their own. However, the Google Cloud Storage
-buckets will be different.
+buckets will be different for each given service.
 
 ## Getting the data
 
